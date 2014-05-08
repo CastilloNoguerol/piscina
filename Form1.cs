@@ -20,5 +20,10 @@ namespace Git_Ex1
         {
             MessageBox.Show("Saludos desde ¡Hola Mundo!");
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            //otro label
+        }
     }
 }
